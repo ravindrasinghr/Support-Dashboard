@@ -13,3 +13,28 @@ Stages as of now:
 
 Starting with Amazon SC
 Amazon SC
+If mismatch, Grafana, Coralogix Links for that respective service
+
+https://platform.fyndx5.de/company/10/home/
+
+
+{
+    SKU:""
+    Store:""
+    "Orbis":{
+    updated_date:"",
+    Quantity:""
+    },
+    "Extension":{
+    updated_date:"",
+    Quantity:""
+    },
+    "Marketplaces":[
+        "MarketplacesName":"",
+        updated_date:"",
+        Quantity:""
+    ]
+}
+
+Sorted on store Id
+Filters storeid
