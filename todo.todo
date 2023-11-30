@@ -1,0 +1,15 @@
+Data Format:
+Date
+SKU
+Store
+Stage
+Quantity
+Is_Mismatch_From_Previous_Stage
+
+Stages as of now:
+1 Orbis
+2 Extension Db
+3 Marketplaces
+
+Starting with Amazon SC
+Amazon SC
